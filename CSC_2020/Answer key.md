@@ -3,7 +3,7 @@
 In this challenge, we needed to unlock the MS Word document using the proper password.
 
 
-
+The text below is simply used as a template.
 
 
 
